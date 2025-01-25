@@ -48,9 +48,11 @@ h3 {
 .box {
     background-color: rgb(201,140,0);
     padding:10px;
-    margin:20px;
-    position: relative;
+    margin:10px;
+    top: 25px;
+    bottom: 25px;
     left: 10px;
+    right: 10px;
     width: 150px;
     height: 325px;
     width: 90vw;
