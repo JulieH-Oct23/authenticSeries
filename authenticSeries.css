@@ -2,7 +2,7 @@
 body {
     background-color: rgb(238, 244, 244);
     width:90vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
 }
 
 a {
@@ -45,8 +45,8 @@ display: flex;
 justify-content: space-around;
 padding:10px;
 margin:20px;
+background-color:  rgb(1, 53, 71);
 }
-
 
 
 .section1 {
