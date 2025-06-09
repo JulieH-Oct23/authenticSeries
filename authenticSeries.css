@@ -35,7 +35,57 @@ h3 {
     position: relative;
 }
 
-.section {
+
+.sectionWelcome {
+    padding:10px;
+    margin:20px;
+    position: relative;
+    left: 10px;
+    width: 90vw;
+}
+
+
+.boxPosition {
+position: relative;
+display: flex;
+justify-content: space-around;
+padding:10px;
+margin:20px;
+}
+
+
+
+.section1 {
+    background-color:  rgb(1, 53, 71);
+    color: rgb(238, 244, 244);
+    padding:10px;
+    margin:20px;
+    position: relative;
+    left: 10px;
+    width: 90vw;
+}
+
+.section2 {
+    background-color:  rgb(1, 53, 71);
+    color: rgb(238, 244, 244);
+    padding:10px;
+    margin:20px;
+    position: relative;
+    left: 10px;
+    width: 90vw;
+}
+
+.section3 {
+    background-color:  rgb(1, 53, 71);
+    color: rgb(238, 244, 244);
+    padding:10px;
+    margin:20px;
+    position: relative;
+    left: 10px;
+    width: 90vw;
+}
+
+.section4 {
     background-color:  rgb(1, 53, 71);
     color: rgb(238, 244, 244);
     padding:10px;
@@ -59,64 +109,3 @@ h3 {
     border: solid, 1px, rgb(238, 244, 244);
     overflow: scroll;
 }
-
-/* body {
-    background-color: rgb(238, 244, 244);
-    width:90vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-}
-
-a {
-    color:rgb(234, 48, 209);
-}
-
-H1 {
-    color: rgb(201, 140, 0);
-}
-
-h2 {
-    color: rgb(1, 53, 71);
-}
-
-h3 {
-    color:rgb(201, 140, 0);
-}
-
-#flows{
-    display: flex;
-    justify-content: space-around;
-    padding:10px;
-    margin:20px;
-}
-
-#title{
-    left: 50px;
-    padding:10px;
-    margin:20px;
-    position: relative;
-}
-
-.section {
-    background-color:  rgb(1, 53, 71);
-    color: rgb(238, 244, 244);
-    padding:10px;
-    margin:20px;
-    position: relative;
-    left: 10px;
-    width: 90vw;
-}
-
-.box {
-    background-color: rgb(201,140,0);
-    padding:10px;
-    margin:10px;
-    top: 25px;
-    bottom: 25px;
-    left: 10px;
-    right: 10px;
-    width: 150px;
-    height: 325px;
-    width: 90vw;
-    border: solid, 1px, rgb(238, 244, 244);
-    overflow: scroll;
-} */
